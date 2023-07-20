@@ -19,6 +19,7 @@ const colors = {
     800: '#1F2937',
     900: '#111827',
   },
+  white: '#FFFFFF',
 }
 
 const shadows = {
@@ -32,7 +33,6 @@ const shadows = {
 
 const fonts = {
   name: 'Archivo',
-  src: '../fonts/Archivo.ttf',
   weight: {
     regular: 400,
     medium: 500,
@@ -96,7 +96,7 @@ export const ViewportSizes = {
   Mobile: 375,
 }
 
-function generateMediaQueryString(viewportSize) {
+const generateMediaQueryString = (viewportSize) => {
   return `@media (min-width: ${viewportSize}px)`
 }
 
