@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to RemiG web page 👋</h1>
 <p>
   <a href="https://twitter.com/panchocorderos" target="_blank">
-    <img alt="Twitter: panchocorderos" src="https://avatars.githubusercontent.com/u/28697282?v=4" />
+    <img alt="Twitter: panchocorderos" src="https://avatars.githubusercontent.com/u/28697282?v=4" height="auto" width="200" style="border-radius:50%" />
   </a>
 </p>
 
